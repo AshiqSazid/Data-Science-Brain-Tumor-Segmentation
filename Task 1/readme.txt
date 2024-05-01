@@ -8,7 +8,7 @@ Paper title:
 Brain tumor segmentation based on deep learning and an attention mechanism using MRI multi‑modalities brain images
 
 Link to the paper:
-https://www.researchgate.net/publication/349151923_Cancer_Cell_Segmentation_Based_on_Unsupervised_Clustering_and_Deep_Learning
+https://www.nature.com/articles/s41598-021-90428-8
 
 Group Number:
 9
