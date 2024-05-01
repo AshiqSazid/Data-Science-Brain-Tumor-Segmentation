@@ -5,7 +5,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://1drv.ms/p/s!AgnAd6-4o0QfhykZGWG9qJHJuEq_?e=NgSNpS
 
 Paper title:
-Cancer Cell Segmentation Based on Unsupervised Clustering and Deep Learning
+Brain tumor segmentation based on deep learning and an attention mechanism using MRI multi‑modalities brain images
 
 Link to the paper:
 https://www.researchgate.net/publication/349151923_Cancer_Cell_Segmentation_Based_on_Unsupervised_Clustering_and_Deep_Learning
